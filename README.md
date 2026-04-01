@@ -1,6 +1,6 @@
 # SpamSense
 
-SpamSense is a pure Java spam classification project that uses a Naive Bayes model built from scratch to detect spam and ham messages. It includes CSV dataset loading, text preprocessing, model training, evaluation metrics, and a simple Swing GUI for interactive prediction.
+SpamSense is a pure Java spam classification project that uses a Naive Bayes model built from scratch to detect spam and ham messages. It includes CSV dataset loading, text preprocessing, model training, evaluation metrics, and a simple Swing GUI for interactive prediction. 
 
 ## What It Does
 
