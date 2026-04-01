@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class Main2cli {
 
     private static final String DATASET_PATH = "data/emails.csv";
 
